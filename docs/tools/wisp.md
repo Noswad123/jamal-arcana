@@ -20,4 +20,6 @@ wisp waystone nvim
 
 ## Package repo
 
-Planned standalone repository: `wisp`.
+Standalone repository: <https://github.com/Noswad123/wisp>
+
+Release: <https://github.com/Noswad123/wisp/releases/tag/v0.1.0>

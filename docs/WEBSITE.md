@@ -51,27 +51,10 @@ If the website grows project detail pages, Jamal Arcana could use:
 /arcana/wisp
 /arcana/waystone
 ```
-*** Add File: /Users/jdawson/Projects/jamal-arcana/docs/tools/wisp.md
-# wisp
 
-`wisp` is a generic floating command runner.
+## Source material
 
-## Contract
-
-```bash
-wisp <command> [args...]
-```
-
-`wisp` should float the command it receives. It should not know about `waystone` or any other specific tool.
-
-## Examples
-
-```bash
-wisp nvim README.md
-wisp yazi ~/Downloads
-wisp waystone nvim
-```
-
-## Package repo
-
-Planned standalone repository: `wisp`.
+- `docs/VISION.md` can become the Jamal Arcana overview page.
+- `docs/LORE.md` can become the lore page.
+- `docs/TOOLS.md` can power project/tool cards.
+- `docs/COMPOSITION.md` can become a short tutorial.

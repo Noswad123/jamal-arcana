@@ -6,10 +6,10 @@ Jamal Arcana is the umbrella docs repository. Package source code should live el
 
 | Repository | Role |
 | --- | --- |
-| `jamal-arcana` | Umbrella docs, ecosystem identity, lore, integration recipes |
-| `wisp` | Generic floating terminal command runner |
-| `waystone` | Path registry, fuzzy picker, clipboard/open workflows |
-| `homebrew-jamal-arcana` | Homebrew formulae for public installation |
+| [`jamal-arcana`](https://github.com/Noswad123/jamal-arcana) | Umbrella docs, ecosystem identity, lore, integration recipes |
+| [`wisp`](https://github.com/Noswad123/wisp) | Generic floating terminal command runner |
+| [`waystone`](https://github.com/Noswad123/waystone) | Path registry, fuzzy picker, clipboard/open workflows |
+| [`homebrew-jamal-arcana`](https://github.com/Noswad123/homebrew-jamal-arcana) | Homebrew formulae for public installation |
 
 ## Package independence rules
 
@@ -17,6 +17,7 @@ Each package should:
 
 - be installable without cloning `jamal-arcana`
 - have its own README and license
+- use the MIT license unless there is a specific reason to diverge
 - have its own tests and CI
 - expose `--help`
 - avoid hardcoded personal paths
@@ -28,10 +29,10 @@ Each package should not:
 - depend on dotfiles layout
 - depend on private machine configuration
 
-## Current extraction order
+## Extraction status
 
-1. `wisp`
-2. `waystone`
-3. Homebrew tap
-4. Documentation pages on the personal website
-5. Later: decide whether MindWeaver, Djinn, and Ideomancer join the umbrella formally
+- [x] Extract `wisp`.
+- [x] Extract `waystone`.
+- [x] Create Homebrew tap.
+- [ ] Build public website pages.
+- [ ] Decide whether MindWeaver, Djinn, and Ideomancer join the umbrella formally.
