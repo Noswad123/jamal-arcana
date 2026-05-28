@@ -2,30 +2,13 @@
 
 Jamal Arcana uses fantasy names to make local tools easier to remember and more fun to use.
 
-## Jamal Arcana
+## Lore entries
 
-`Arcana` suggests hidden knowledge, learned craft, and small bits of practical magic. The name gives the ecosystem room for tools that discover, summon, navigate, and shape information.
+- [Jamal Arcana](lore/jamal-arcana.md)
+- [wisp](lore/wisp.md)
+- [waystone](lore/waystone.md)
 
-## wisp
-
-A wisp is small, floating, and temporary.
-
-That matches the tool: `wisp` summons a floating terminal around any command, then gets out of the way.
-
-```bash
-wisp nvim README.md
-```
-
-## waystone
-
-A waystone is a marked travel point.
-
-That matches the tool: `waystone` lets you mark useful paths and return to them later.
-
-```bash
-waystone add ~/Projects/app app
-waystone nvim
-```
+The personal website treats this directory as the canonical lore source. If a project has a matching file in `docs/lore/<project-slug>.md`, the site can reveal it as a hidden `lore?` link.
 
 ## Naming principles
 
