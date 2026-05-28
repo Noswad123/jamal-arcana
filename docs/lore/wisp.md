@@ -1,4 +1,15 @@
-# wisp
+---
+title: "Wisp"
+slug: "wisp"
+hidden: false
+lore_type: "creature"
+characteristics:
+  - "Small"
+  - "Floating"
+  - "Temporary"
+---
+
+# Wisp
 
 A wisp is small, floating, and temporary.
 

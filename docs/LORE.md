@@ -1,22 +1,34 @@
-# Lore
+# Jamal Arcana Lore
 
-Jamal Arcana uses fantasy names to make local tools easier to remember and more fun to use.
+## Codex
 
-## Lore entries
+### Cosmic Beings
 
-- [Jamal Arcana](lore/jamal-arcana.md)
-- [wisp](lore/wisp.md)
-- [waystone](lore/waystone.md)
+- [Mind Weaver](lore/mind-weaver)
+- [Ideomancer](lore/ideomancer)
+- [Twin Loci](lore/twin-loci)
+- [Top 5](lore/top-five)
 
-The personal website treats this directory as the canonical lore source. If a project has a matching file in `docs/lore/<project-slug>.md`, the site can reveal it as a hidden `lore?` link.
+### Legendary Wizards
 
-## Naming principles
+- [Foodie](lore/foodie)
+- [Polyglot](lore/polyglot)
+- [Lasoundra](lore/lasoundra)
 
-Names should be:
+### Creatures
 
-- evocative, but not opaque
-- short enough to type
-- easy to explain in one sentence
-- tied to the tool's actual behavior
+- [Wisp](lore/wisp)
+- [Hivemind](lore/hivemind)
 
-The magic should clarify the metaphor, not replace documentation.
+### Places
+
+- [Errandhall](lore/errandhall)
+
+### Rituals
+
+- [Sagebond](lore/sagebond)
+
+### Artifacts
+
+- [Grimmoire](lore/grimmoire)
+- [Waystone](lore/waystone)

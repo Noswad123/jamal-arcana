@@ -1,4 +1,13 @@
-# waystone
+---
+title: "Waystone"
+slug: "waystone"
+hidden: false
+lore_type: "artifact"
+characteristics:
+  - "Marked travel point"
+---
+
+# Waystone
 
 A waystone is a marked travel point.
 
