@@ -55,6 +55,8 @@ If the website grows project detail pages, Jamal Arcana could use:
 ## Source material
 
 - `docs/VISION.md` can become the Jamal Arcana overview page.
-- `docs/lore/*.md` can power hidden lore pages.
+- `docs/LORE.md` can power the public glossary and codex index.
+- `docs/canon/*.md` can power origin and cosmology pages.
+- `docs/arcana/*.md` can power hidden lore pages.
 - `docs/TOOLS.md` can power project/tool cards.
 - `docs/COMPOSITION.md` can become a short tutorial.
