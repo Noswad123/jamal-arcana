@@ -2,11 +2,12 @@
 
 ## Classification
 
+- Native
 - Ritual
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- A mentor/mentee app for helping people connect with one another and make progress toward shared goals. See the [Sagebond README](https://github.com/Noswad123/sagebond/blob/main/README.md).
 
 ## Arcane Form
 

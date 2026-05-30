@@ -1,12 +1,14 @@
 # Errandhall
+![Errandhall](../../img/errandhall.png)
 
 ## Classification
 
+- Native
 - Place
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- A forum-style app for managing reward tasks associated with open source software. See the [Errandhall README](https://github.com/Noswad123/errandhall/blob/main/README.md).
 
 ## Arcane Form
 

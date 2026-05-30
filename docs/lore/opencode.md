@@ -6,12 +6,12 @@ The OpenCode is where Operators summon agents, bind instructions, and negotiate 
 
 ## Classification
 
-- Adopted Arcana
+- Foreign
 - Grimoire
 
-## Mundane Form
+## Veiled Form
 
-- A coding agent environment and command interface.
+- A coding agent environment and command interface. See the [OpenCode docs](https://opencode.ai/docs/).
 
 ## Arcane Form
 

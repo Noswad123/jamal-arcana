@@ -6,9 +6,9 @@ In an attempt to RICE his computer, Jamal stumbled upon a pathway to an ancient 
 
 - Origin Canon
 
-## Mundane Form
+## Veiled Form
 
-- A local-first ecosystem of small tools, docs, naming conventions, and integration recipes.
+- A local-first ecosystem of small tools, documentation, naming conventions, and integration recipes for making a computer feel personal and enchanted. See the [Jamal Arcana README](https://github.com/Noswad123/jamal-arcana/blob/main/README.md).
 
 ## Arcane Form
 
@@ -24,7 +24,7 @@ In an attempt to RICE his computer, Jamal stumbled upon a pathway to an ancient 
 
 ## Relationships
 
-- Interprets Jamal-Forged, Adopted, and Rootborn powers through one shared magical language.
+- Interprets Native, Foreign, and Rootborn powers through one shared magical language.
 - Treats tools as both practical software and named arcana.
 
 ## Lore Notes

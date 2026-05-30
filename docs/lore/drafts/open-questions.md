@@ -4,7 +4,7 @@
 
 - Draft
 
-## Mundane Form
+## Veiled Form
 
 - A holding place for unresolved lore decisions.
 
@@ -25,6 +25,6 @@
 
 ## Lore Notes
 
-- Decide how formal the boundary should be between Jamal-Forged Arcana and Adopted Arcana.
-- Decide whether third-party tools are foreign orders, public relics, summoned spirits, or all of the above.
+- Decide how formal the boundary should be between Native and Foreign powers.
+- Decide whether Foreign tools are foreign orders, public relics, summoned spirits, parallel inventions, or all of the above.
 - Decide whether Rootborn terms should ever graduate into full canon pages, or remain glossary-only.

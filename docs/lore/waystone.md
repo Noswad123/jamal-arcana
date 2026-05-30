@@ -11,12 +11,12 @@ They are carved with coordinates, but not physical coordinates alone. A true Way
 
 ## Classification
 
-- Jamal-Forged Arcana
+- Native
 - Artifact
 
-## Mundane Form
+## Veiled Form
 
-- A path registry and fuzzy picker for frequently used files and directories.
+- A path registry and fuzzy picker for saving, selecting, copying, and opening frequently used files and directories. See the [Waystone README](https://github.com/Noswad123/waystone/blob/main/README.md) and [local tool notes](../tools/waystone.md).
 
 ## Arcane Form
 

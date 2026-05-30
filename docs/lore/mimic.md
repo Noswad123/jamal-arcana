@@ -1,12 +1,14 @@
 # Mimic
+![Mimic](../../img/mimic.png)
 
 ## Classification
 
+- Native
 - Creature
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- A web tool for visualizing web layouts with different colors. See the [Mimic README](https://github.com/Noswad123/mimic/blob/main/README.md).
 
 ## Arcane Form
 

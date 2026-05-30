@@ -8,12 +8,12 @@ They are helpful but dangerous because they answer exactly what was asked, not w
 
 ## Classification
 
-- Jamal-Forged Arcana
+- Native
 - Creature
 
-## Mundane Form
+## Veiled Form
 
-- A shell alias and function discovery tool.
+- A terminal UI that scans dotfiles for tagged shell and Lua snippets, then returns the selected source location for editor navigation. See the [Djinn README](https://github.com/Noswad123/djinn/blob/main/README.md).
 
 ## Arcane Form
 

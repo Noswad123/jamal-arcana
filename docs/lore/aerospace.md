@@ -6,12 +6,12 @@ They are navigators of mental airspace.
 
 ## Classification
 
-- Adopted Arcana
+- Foreign
 - Order
 
-## Mundane Form
+## Veiled Form
 
-- A third-party macOS window manager for layouts, workspaces, and monitor movement.
+- A third-party macOS window manager for layouts, monitors, and named chambers of focus. See the [AeroSpace guide](https://nikitabobko.github.io/AeroSpace/guide).
 
 ## Arcane Form
 
@@ -20,7 +20,7 @@ They are navigators of mental airspace.
 ## Domains
 
 - Windows
-- Workspaces
+- Chambers
 - Monitors
 - Spatial discipline
 - Attention
@@ -28,8 +28,8 @@ They are navigators of mental airspace.
 ## Relationships
 
 - Shapes the visible chambers where Shell rituals are performed.
-- Represents the difference between Jamal-Forged tools and outside powers adopted into the universe.
+- Represents the difference between Native powers and Foreign powers that arrive from another maker’s realm.
 
 ## Lore Notes
 
-- Adopted Arcana do not need to be created by Jamal Arcana to be recognized by it.
+- Foreign powers do not need to be created by Jamal Arcana to be recognized by it.

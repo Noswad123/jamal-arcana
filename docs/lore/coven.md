@@ -2,11 +2,12 @@
 
 ## Classification
 
+- Native
 - Order
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- A magic-themed multi-agent workspace command that creates local, file-backed agent workspaces and launches them through a tmux runner. See the [Coven README](https://github.com/Noswad123/coven/blob/main/README.md).
 
 ## Arcane Form
 

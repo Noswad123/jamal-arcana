@@ -2,12 +2,13 @@
 
 ## Classification
 
+- Native
 - Primordial Dyad
 - Cosmic Beings
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- No standalone application documentation yet; currently a Native lore concept for the primordial dyad of Knowledge and Imagination.
 
 ## Arcane Form
 

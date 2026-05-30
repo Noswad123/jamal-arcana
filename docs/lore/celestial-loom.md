@@ -2,11 +2,12 @@
 
 ## Classification
 
+- Native
 - Artifact
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- No standalone application documentation yet; currently a Native lore concept for the loom or mechanism that lets Mind Weaver bind notes, memories, and thought-patterns together.
 
 ## Arcane Form
 

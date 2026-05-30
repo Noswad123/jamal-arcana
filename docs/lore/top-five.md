@@ -2,12 +2,13 @@
 ![Top Five](../../img/top5.png)
 ## Classification
 
+- Native
 - Cosmic Beings
 - Judges
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- A Native project housed in the `top5` repository; its lore currently frames five judges or evaluators in the Jamal Arcana universe. See the [Top 5 README](https://github.com/Noswad123/top5/blob/main/README.md).
 
 ## Arcane Form
 

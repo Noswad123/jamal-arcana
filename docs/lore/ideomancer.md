@@ -6,12 +6,12 @@ Their magic is dangerous because a poorly formed idea can still become real.
 
 ## Classification
 
-- Jamal-Forged Arcana
+- Native
 - Cosmic Being
 
-## Mundane Form
+## Veiled Form
 
-- A project manifest, planning, initialization, and validation workflow tool.
+- A software planning tool for creating and validating project manifests, with future support for diagrams generated from those manifests. See the [Ideomancer README](https://github.com/Noswad123/ideomancer/blob/main/README.md).
 
 ## Arcane Form
 

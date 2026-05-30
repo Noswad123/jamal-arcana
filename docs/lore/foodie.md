@@ -2,11 +2,12 @@
 
 ## Classification
 
+- Native
 - Legendary Wizard
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- A kitchen inventory and recipe management app with a Go backend, Bun frontend, and Airtable sync support. See the [Foodie README](https://github.com/Noswad123/foodie/blob/main/README.md).
 
 ## Arcane Form
 

@@ -6,12 +6,12 @@ That matches the tool: `wisp` summons a floating terminal around any command, th
 
 ## Classification
 
-- Jamal-Forged Arcana
+- Native
 - Creature
 
-## Mundane Form
+## Veiled Form
 
-- A floating terminal command runner.
+- A generic floating terminal command runner that opens any command in a temporary floating window. See the [Wisp README](https://github.com/Noswad123/wisp/blob/main/README.md) and [local tool notes](../tools/wisp.md).
 
 ## Arcane Form
 

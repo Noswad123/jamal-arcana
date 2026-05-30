@@ -2,11 +2,12 @@
 
 ## Classification
 
+- Native
 - Artifact
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- No standalone application documentation yet; currently a Native lore artifact for written spells, notes, warnings, and stored procedures.
 
 ## Arcane Form
 

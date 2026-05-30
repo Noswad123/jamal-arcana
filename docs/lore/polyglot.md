@@ -1,13 +1,15 @@
 # Polyglot
+![Polyglot](../../img/polyglot.png)
 
 ## Classification
 
+- Native
 - Legendary Wizard
 - Spirit
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- A learning system for comparing programming concepts across languages and paradigms, with katas, scripts, playgrounds, and app scaffolding. See the [Polyglot README](https://github.com/Noswad123/polyglot/blob/main/README.md).
 
 ## Arcane Form
 

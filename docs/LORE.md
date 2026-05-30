@@ -16,13 +16,18 @@ This file is the glossary and field index for the universe. Not every term needs
 - **Command** — a ritualized act of intent.
 - **Alias** — a lesser true name; shorter, easier to speak, but still bound to a deeper invocation.
 - **Session** — a preserved state of consciousness, work, or ritual.
-- **Workspace** — a chamber of focused reality.
+- **Chamber** — a focused pocket of reality where panes, tools, and rituals are arranged for a specific mode of thought.
 
 ### Origins of Power
 
-- **Jamal-Forged Arcana** — tools, spirits, and artifacts created within this ecosystem or directly shaped by the Operator’s hand.
-- **Adopted Arcana** — third-party tools and public powers incorporated into the universe through use, naming, and ritual.
-- **Rootborn Terms** — primitives that feel older than any one tool: root, shell, daemon, path, command, process, permission, and environment.
+- **Native** — tools, spirits, beings, places, and concepts born within the central ecosystem. If we are talking about Jamal Arcana, mind weaver would be "native" to it.
+- **Foreign** — tools and powers born in another maker’s realm.
+- **Rootborn** — primitives that feel older than any one tool: root, shell, daemon, path, and command.
+
+### Entry Shape
+
+- **Veiled Form** — what the tool, app, or concept does in visible reality. Link to documentation here when it exists.
+- **Arcane Form** — what the same thing becomes once interpreted through Jamal Arcana.
 
 ## Codex
 

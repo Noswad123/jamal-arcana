@@ -2,12 +2,13 @@
 
 ## Classification
 
+- Native
 - Creature
 - Collective Intelligence
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- No standalone application documentation yet; currently a Native lore concept for collective memory, swarm intelligence, or shared synchronization.
 
 ## Arcane Form
 

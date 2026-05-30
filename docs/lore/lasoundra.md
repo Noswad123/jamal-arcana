@@ -1,13 +1,15 @@
 # Lasoundra
+![Lasoundra](../../img/lasoundra.png)
 
 ## Classification
 
+- Native
 - Legendary Wizard
 - Witch
 
-## Mundane Form
+## Veiled Form
 
-- TBD
+- A music theory app exploring musical structure and notation ideas. See the [Lasoundra README](https://github.com/Noswad123/lasoundra/blob/main/README.md).
 
 ## Arcane Form
 
@@ -16,7 +18,7 @@
 ## Domains
 
 - Witchcraft
-- TBD
+- Music theory
 
 ## Relationships
 

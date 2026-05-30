@@ -7,12 +7,12 @@ The MindWeaver is a cosmic being that spins thoughts into threads using his [Ast
 
 ## Classification
 
-- Jamal-Forged Arcana
+- Native
 - Cosmic Being
 
-## Mundane Form
+## Veiled Form
 
-- A notes, todos, cheatsheets, and local knowledge system.
+- A local-first notes system that syncs structured Markdown notes into SQLite, supports querying and tagging, and is growing toward graph visualization. See the [MindWeaver README](https://github.com/Noswad123/mind-weaver/blob/main/README.md).
 
 ## Arcane Form
 

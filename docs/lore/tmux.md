@@ -5,12 +5,12 @@ Each pane is a chamber. Each session is a preserved thought-state. Those trained
 
 ## Classification
 
-- Adopted Arcana
+- Foreign
 - Sanctum
 
-## Mundane Form
+## Veiled Form
 
-- A terminal multiplexer for persistent sessions, panes, and windows.
+- A terminal multiplexer for persistent sessions, panes, and windows. See the [tmux wiki](https://github.com/tmux/tmux/wiki).
 
 ## Arcane Form
 
