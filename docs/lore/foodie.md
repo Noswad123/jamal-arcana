@@ -1,17 +1,3 @@
----
-title: "Foodie"
-slug: "foodie"
-hidden: false
-lore_type: "wizard"
-category: "Legendary Wizards"
-name: "Darryl Emberwyn"
-aliases:
-  - "Foodie"
-specialty: "Gastronomancer"
-characteristics:
-  - "Every dish is a minor miracle"
----
-
 # Foodie
 
 ## Lore Notes

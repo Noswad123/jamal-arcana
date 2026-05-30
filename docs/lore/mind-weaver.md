@@ -1,15 +1,4 @@
----
-title: "Mind Weaver"
-slug: "mind-weaver"
-hidden: false
-lore_type: "cosmic-being"
-domains:
-  - Knowledge
-  - Memory
-  - Thought
-characteristics:
-  - "Cosmic Being of Knowledge, Memory, and Thought"
----
+# Mind Weaver
 
 The **Mind Weaver**, with the power of his [Astral Loom](astral-loom) captures fleeting thought threads.
 

@@ -1,16 +1,4 @@
----
-title: "Ideomancer"
-slug: "ideomancer"
-hidden: false
-lore_type: "cosmic-being"
-domains:
-  - Imagination
-  - Ideas
-characteristics:
-  - "Manifests ideas into pocket dimensions"
-  - "Source of spirits like Polyglot"
----
-
+# Ideomancer
 The **Ideomancer** shapes ideas into explorable forms.
 
 ## Lore Notes

@@ -1,17 +1,3 @@
----
-title: "Twin Loci"
-slug: "twin-loci"
-hidden: false
-lore_type: "cosmic-concept"
-category: "Cosmic Beings"
-domains:
-  - Knowledge
-  - Imagination
-characteristics:
-  - "Primordial dyad"
-  - "Root of the creative world"
----
-
 # Twin Loci
 
 ## Lore Notes
