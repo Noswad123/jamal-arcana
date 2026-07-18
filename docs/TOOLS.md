@@ -23,3 +23,4 @@ These tools share the spirit of Jamal Arcana, but may keep their own identity an
 | MindWeaver | Notes, todos, cheatsheets, and local knowledge | <https://github.com/Noswad123/mind-weaver> |
 | Djinn | Shell alias/function discovery | local/public repo TBD |
 | Ideomancer | Project manifests and validation workflows | <https://github.com/Noswad123/ideomancer> |
+| Kitsune (`kit`) | Named, composable working-session kits for multiplexers | local workspace; public repo TBD |

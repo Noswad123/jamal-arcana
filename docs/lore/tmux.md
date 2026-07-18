@@ -1,7 +1,7 @@
 # Tmux
 
 Tmux is a many-roomed sanctum where one mind can maintain many conversations with reality at once.
-Each pane is a chamber. Each session is a preserved thought-state. Those trained in Tmux can leave a ritual unfinished, depart, and return later to find the candles still burning.
+Each session is a preserved thought-state. Those trained in Tmux can leave a ritual unfinished, depart, and return later to find the candles still burning.
 
 ## Classification
 
@@ -26,7 +26,7 @@ Each pane is a chamber. Each session is a preserved thought-state. Those trained
 ## Relationships
 
 - Gives Shell rituals rooms that can survive departure and return.
-- Pairs naturally with [OpenCode](./opencode.md) when daemons and agents need persistent chambers.
+- Pairs naturally with [OpenCode](./opencode.md) when daemons and agents need a persistent place to keep working.
 
 ## Lore Notes
 

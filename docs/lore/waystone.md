@@ -16,11 +16,14 @@ They are carved with coordinates, but not physical coordinates alone. A true Way
 
 ## Veiled Form
 
-- A path registry and fuzzy picker for saving, selecting, copying, and opening frequently used files and directories. See the [Waystone README](https://github.com/Noswad123/waystone/blob/main/README.md) and [local tool notes](../tools/waystone.md).
+- A CLI app for storing filesystem paths and retrieving them for use with other commands and tools. A saved path such as `~/fake/fake/fake/` can later be recalled and passed to commands like `ls`, `nvim`, or any other tool that can act on a path. See the [Waystone README](https://github.com/Noswad123/waystone/blob/main/README.md) and [local tool notes](../tools/waystone.md).
 
 ## Arcane Form
 
 - A named anchor that lets a traveler return to a meaningful place through memory, command, or ritual.
+- An artifact that stores locations so they can be reached, invoked, or used in conjunction with other powers.
+- In skilled hands, a Waystone can move a traveler to a location in an instant or bring the presence of a location to the traveler.
+- Intelligent users find uses beyond simple travel: anchoring rituals, summoning context, binding places to names, or turning distance into a resource.
 
 ## Domains
 
@@ -29,12 +32,20 @@ They are carved with coordinates, but not physical coordinates alone. A true Way
 - Recall
 - Navigation
 - Anchoring
+- Travel
+- Location
+- Invocation
+- Distance
 
 ## Relationships
 
 - Complements [Djinn](./djinn.md): Djinn reveals names; Waystone remembers places.
 - Depends on the Rootborn power of paths.
+- Works naturally with other artifacts because its stored paths can be passed into other commands, rituals, or tools.
+- Where [Mind Weaver](./mind-weaver.md) preserves thought for recall, Waystone preserves place for return.
 
 ## Lore Notes
 
 - A Waystone remembers context, not only location.
+- Explore the difference between traveling to a place and bringing a place to you.
+- Possible story angle: a master Waystone user never appears to move, yet every room they enter becomes connected to somewhere else.

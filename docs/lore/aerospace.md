@@ -1,35 +1,42 @@
 # Aerospace
 
-The Aerospace Order governs the movement of panes, windows, screens, and attention across invisible skies.
-To ordinary people, they move windows. In lore, they choreograph floating chambers in the upper layers of the Shell.
-They are navigators of mental airspace.
+Aerospace is a particular tribe of wisps known for flight, formation, and precise movement through crowded skies.
+They are foreign to Jamal Arcana, but Jamal's practice has learned how to call on them.
+Where ordinary wisps drift and flicker, Aerospace wisps move with disciplined patterns.
 
 ## Classification
 
 - Foreign
-- Order
+- Creature
+- Tribe
 
 ## Veiled Form
 
-- A third-party macOS window manager for layouts, monitors, and named chambers of focus. See the [AeroSpace guide](https://nikitabobko.github.io/AeroSpace/guide).
+- A third-party tiling window manager for macOS used to arrange windows, workspaces, monitors, and floating behavior. See the [AeroSpace guide](https://nikitabobko.github.io/AeroSpace/guide).
+- In Jamal's setup, Aerospace is used in concert with [Wisp](./wisp.md) to enable floating command windows.
 
 ## Arcane Form
 
-- A sky-order of aeromancers who choreograph floating chambers of attention.
+- A foreign tribe of [Wisp](./wisp.md) whose flight patterns are unusually disciplined.
+- They do not merely appear and vanish; they gather, separate, hover, and reposition with flock-like precision.
+- Their exact role in the wider lore is still emerging.
 
 ## Domains
 
-- Windows
-- Chambers
-- Monitors
-- Spatial discipline
-- Attention
+- Wisps
+- Floating
+- Foreign integration
+- Guidance
+- Summoning
 
 ## Relationships
 
-- Shapes the visible chambers where Shell rituals are performed.
-- Represents the difference between Native powers and Foreign powers that arrive from another maker’s realm.
+- A specialized tribe within the broader family of [Wisp](./wisp.md)-like creatures.
+- Works with [Wisp](./wisp.md) by helping summoned spirits appear in useful positions.
+- Their foreign flight patterns are difficult for native mages to read, but useful to those who learn their habits.
 
 ## Lore Notes
 
-- Foreign powers do not need to be created by Jamal Arcana to be recognized by it.
+- Figure out what Aerospace wisps actually want, if anything.
+- Explore whether Aerospace wisps are domesticated, negotiated with, borrowed, or simply observed and imitated.
+- Possible story angle: an Aerospace swarm refuses to carry a command because the user's intent is too scattered.

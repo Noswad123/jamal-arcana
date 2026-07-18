@@ -20,6 +20,7 @@ Planned/adjacent tools that may stay in their own repositories:
 | MindWeaver | Notes, todos, cheatsheets, and local knowledge |
 | Djinn | Shell alias/function discovery |
 | Ideomancer | Project manifests and validation workflows |
+| Kitsune (`kit`) | Named, composable working-session kits for multiplexers |
 
 ## Design principles
 
@@ -41,7 +42,7 @@ Start here:
 - [`docs/TOOLS.md`](docs/TOOLS.md) — catalog of current and future tools
 - [`docs/INSTALL.md`](docs/INSTALL.md) — Homebrew and source installation paths
 - [`docs/COMPOSITION.md`](docs/COMPOSITION.md) — how tools work together through the shell
-- [`docs/LORE.md`](docs/LORE.md) — naming, worldbuilding, and tone
+- [`docs/GLOSSARY.md`](docs/GLOSSARY.md) — naming, worldbuilding, classifications, domains, and tone
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — ecosystem rules and package boundaries
 - [`docs/RELEASES.md`](docs/RELEASES.md) — release status and roadmap
 - [`docs/WEBSITE.md`](docs/WEBSITE.md) — website integration plan
@@ -54,4 +55,3 @@ wisp waystone nvim
 ```
 
 This works because `wisp` is generic and `waystone nvim` resolves to `waystone open nvim`.
-

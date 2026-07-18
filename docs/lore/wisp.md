@@ -26,8 +26,9 @@ That matches the tool: `wisp` summons a floating terminal around any command, th
 
 ## Relationships
 
-- Works through the Shell by wrapping commands in a temporary visible chamber.
 - Can carry invocations from [Waystone](./waystone.md), [Djinn](./djinn.md), or other tools.
+- [Aerospace](./aerospace.md) is a foreign tribe of wisps with unusually disciplined flight patterns.
+- Ordinary wisps are light and brief; Aerospace wisps are better at coordinated movement and placement.
 
 ## Lore Notes
 

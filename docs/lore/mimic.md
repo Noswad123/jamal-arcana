@@ -8,7 +8,7 @@
 
 ## Veiled Form
 
-- A web tool for visualizing web layouts with different colors. See the [Mimic README](https://github.com/Noswad123/mimic/blob/main/README.md).
+- A web tool for visualizing layouts and managing reusable themes. See the [Mimic README](https://github.com/Noswad123/mimic/blob/main/README.md).
 
 ## Arcane Form
 
@@ -23,7 +23,8 @@
 ## Relationships
 
 - A dangerous counterpoint to the Djinn: one reveals true names, the other borrows names falsely.
+- The safest Mimics are trained to imitate interfaces honestly; these become theme laboratories for Hexware imbuements like Astral, Ember, Frost, and Verdant.
 
 ## Lore Notes
 
-- Decide whether mimics are monsters, debugging metaphors, or malformed automations.
+- Mimics can be monsters when they deceive, but tame Mimics are useful debugging familiars: they reveal whether an interface form still feels true when its colors, surfaces, and signals change.
