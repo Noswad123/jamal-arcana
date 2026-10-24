@@ -6,6 +6,7 @@
 | --- | --- | --- | --- |
 | `wisp` | Floating command runner | `v0.1.0` | <https://github.com/Noswad123/wisp> |
 | `waystone` | Path registry and fuzzy picker | `v0.1.0` | <https://github.com/Noswad123/waystone> |
+| `wyrm` | Terminal file manager | `v0.1.0-dev` | <https://github.com/Noswad123/wyrm> |
 
 ## Supporting repositories
 

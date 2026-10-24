@@ -12,6 +12,7 @@ It is not the source repository for each package. Each tool lives in its own rep
 | --- | --- | --- |
 | `wisp` | Open a command in a floating terminal window | [`Noswad123/wisp`](https://github.com/Noswad123/wisp) |
 | `waystone` | Save, fuzzy-pick, copy, and open frequently used paths | [`Noswad123/waystone`](https://github.com/Noswad123/waystone) |
+| `wyrm` | Dragon-hoard terminal file manager for browsing and managing local files | [`Noswad123/wyrm`](https://github.com/Noswad123/wyrm) |
 
 Planned/adjacent tools that may stay in their own repositories:
 
